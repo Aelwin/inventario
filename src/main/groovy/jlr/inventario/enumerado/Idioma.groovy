@@ -1,4 +1,4 @@
-package jlr.inventario.util
+package jlr.inventario.enumerado
 
 import groovy.transform.CompileStatic
 
