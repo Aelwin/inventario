@@ -1,7 +1,7 @@
 package jlr.inventario.model
 
-import jlr.inventario.util.Formato
-import jlr.inventario.util.Idioma
+import jlr.inventario.enumerado.Formato
+import jlr.inventario.enumerado.Idioma
 
 import javax.persistence.Column
 import javax.persistence.Entity

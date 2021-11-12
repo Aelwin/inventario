@@ -1,6 +1,6 @@
 package jlr.inventario.model
 
-import jlr.inventario.util.SiNo
+import jlr.inventario.enumerado.SiNo
 
 import javax.persistence.Entity
 import javax.persistence.EnumType
